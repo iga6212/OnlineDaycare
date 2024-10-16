@@ -1,0 +1,12 @@
+
+	.report-header1{
+		border-left: 6px solid #0000FF;
+		border-bottom: 1px solid #0000FF;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.report-text1{
+		padding: 10px;
+		margin: 20px;
+	}

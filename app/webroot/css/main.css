@@ -1,0 +1,257 @@
+	body{
+		margin: 0px;
+		background-color: #FFFFE6;
+		background-image: url( "/green/img/farbe-header-bg1.png" );
+		background-position: top center;
+		background-repeat: no-repeat;
+		background-size: 100% 100px;
+
+		padding-bottom: 50px;
+	}
+
+	.basic-font1{
+		font-family: meiryo, arial, sans-serif;
+	}
+
+	.space1{
+		width: 200px;
+		height: 30px;
+	}
+
+	.logostyle1{
+		cursor: pointer;
+	}
+
+	.prealpha-style1{
+		text-align: right;
+		font-family: arial, sans-serif;
+		width: 216px;
+		height: 50px;
+	}
+
+
+
+	.profile_button_style1{
+		border: solid 1px #AAAAAA;
+		cursor: pointer;
+	}
+
+	.clear-left1{
+		clear: left;
+	}
+
+	@media only screen and (min-width: 700px) and (max-width: 2000px){
+		.left-wrapper1{
+			float: left;
+		}
+		.top-center-space1{
+			float: left;
+			margin: 50px 25px 0px 25px;
+		}
+		.logindata-style1{
+			float: left;
+			margin: 25px;
+		}
+		.button-box-style1{
+			float: left;
+			background-color: #7AE66D;
+			border: solid 1px #AAAAAA;
+			border-radius: 3px;
+			width: 100px;
+			height: 40px;
+			line-height: 35px;
+			text-align: center;
+			text-shadow: 2px 2px 1px #999999;
+			cursor: pointer;
+		}
+
+		.button-box-style2{
+			float: left;
+			background-color: #D3FFCE;
+			border: solid 1px #AAAAAA;
+			border-radius: 3px;
+			width: 100px;
+			height: 40px;
+			line-height: 35px;
+			text-align: center;
+			text-shadow: 2px 2px 1px #999999;
+			cursor: pointer;
+		}
+		.blog-news{
+			margin: 10px;
+			padding 10px;
+			border: solid 1px #AAAAAA;
+			width: 400px;
+		}
+		.netcare-info{
+			margin: 10px;
+			padding 10px;
+			border: solid 1px #AAAAAA;
+			width: 400px;
+		}
+	} /* media only 700px - 2000px */
+
+	@media only screen and (min-width: 100px) and (max-width: 699px){
+		.left-wrapper1{
+			clear: left;
+			width: 220px;
+			height: 150px;
+			margin: auto;
+		}
+		.top-center-space1{
+			clear: left;
+			/* margin: 0px 25px 0px 25px; */
+			width: 300px;
+			height: 100px;
+			margin: auto;
+		}
+		.logindata-style1{
+			clear: left;
+			/* margin: 25px; */
+			width: 300px;
+			height: 100px;
+			margin: auto;
+		}
+		.button-box-style1{
+			background-color: #7AE66D;
+			border: solid 1px #AAAAAA;
+			border-radius: 3px;
+			width: 98%;
+			height: 40px;
+			line-height: 35px;
+			text-align: center;
+			text-shadow: 2px 2px 1px #999999;
+			cursor: pointer;
+		}
+
+		.button-box-style2{
+			background-color: #D3FFCE;
+			border: solid 1px #AAAAAA;
+			border-radius: 3px;
+			width: 98%;
+			height: 40px;
+			line-height: 35px;
+			text-align: center;
+			text-shadow: 2px 2px 1px #999999;
+			cursor: pointer;
+		}
+		.blog-news{
+			margin: 10px;
+			padding 10px;
+			border: solid 1px #AAAAAA;
+		}
+		.netcare-info{
+			margin: 10px;
+			padding 10px;
+			border: solid 1px #AAAAAA;
+		}
+	} /* media only 100px - 699px */
+
+	.footer-style1{
+		position: fixed;
+		bottom: 0px;
+		margin: 0px;
+		padding: 5px;
+		border: solid 1px #AAAAAA;
+		background-color: #7AE66D;
+		width: 100%;
+		height: 20px;
+		text-align: left;
+		text-shadow: 2px 2px 1px #999999;
+		font-size: 12px;
+	}
+
+
+	.blog_news_line1{
+		cursor: pointer;
+	}
+
+	.blog_wrapper1{
+		margin: 10px;
+		padding 10px;
+		border: solid 1px #AAAAAA;
+		width: 400px;
+	}
+
+	
+	.blog_time_style1{
+		margin: 3px;
+		padding 3px;
+		border: solid 1px #AAAAAA;
+	}
+
+	.blog_data_style1{
+		margin: 3px;
+		padding 3px;
+		border: solid 1px #AAAAAA;
+	}
+
+	.comment_data_style1{
+		margin: 3px;
+		padding 3px;
+		border: solid 1px #AAAAAA;
+	}
+	
+	.comment_button_style1{
+		margin: 3px;
+		padding 3px;
+		border: solid 1px #AAAAAA;
+	}
+
+	.blog_midify{
+		cursor: pointer;
+	}
+
+	.blog_delete{
+		cursor: pointer;
+	}
+
+	.bbs_create_button_style1{
+		margin: 3px;
+		padding 3px;
+		border: solid 1px #AAAAAA;
+		cursor: pointer;
+	}
+
+	.thread_style1{
+		margin: 3px;
+		padding 3px;
+		border: solid 1px #AAAAAA;
+		cursor: pointer;
+	}
+
+	.thread_data_style1{
+		margin: 3px;
+		padding 3px;
+		border: solid 1px #AAAAAA;
+	}
+
+	.profile_setting_style1{
+		margin: 3px;
+		padding 3px;
+		border: solid 1px #AAAAAA;
+		cursor: pointer;
+	}
+
+	.profile_img_size1{
+		width: 128px;
+		height: 128px;
+		border-radius: 20px;
+	}
+
+	.profile_img_size2{
+		width: 64px;
+		height: 64px;
+		border-radius: 10px;
+	}
+
+	.profile_img_size3{
+		width: 32px;
+		height: 32px;
+		border-radius: 5px;
+	}
+
+	.clickable{
+		cursor: pointer;
+	}
+

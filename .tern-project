@@ -1,0 +1,17 @@
+{
+	"libs": [
+		"browser",
+		"jquery"
+	],
+	"loadEagerly": [
+		"netcare.js"
+	],
+	"dontLoad": [
+	],
+	"plugins": {
+		"requirejs": {},
+		"node": {},
+		"modules": {},
+		"es_modules": {}
+	}
+}
